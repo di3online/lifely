@@ -1,2 +1,3 @@
+baseurl: /lifely
 markdown: rdiscount
 pygments: true
